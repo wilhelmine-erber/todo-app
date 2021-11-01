@@ -1,0 +1,14 @@
+.topNav {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+.topNav .active-menu-item { 
+  font-weight: bold;
+}
+.topNav ul {
+  display: flex;
+  list-style-type: none;
+}
+.topNav ul li {
+  margin-right: 15px;
+}
